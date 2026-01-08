@@ -74,7 +74,7 @@ label-reading-ocr/
 
 ---
 
-### 📈 Applications
+### Applications
 - Label reading systems  
 - Document digitization  
 - Automated data entry  
@@ -82,7 +82,7 @@ label-reading-ocr/
 
 ---
 
-### 🔮 Future Improvements
+### Future Improvements
 - Save extracted text to a file  
 - Support multiple images  
 - Add GUI or web interface  
@@ -92,4 +92,3 @@ label-reading-ocr/
 
 ### License
 This project is intended for educational purposes.
-
